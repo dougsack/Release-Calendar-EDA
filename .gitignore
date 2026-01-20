@@ -3,3 +3,6 @@
 *.csv
 credentials.json
 ultra-sound-463216-c2-0e076e5f88fe.json
+*.pdf
+*.xlsx
+*.json
